@@ -1,0 +1,1 @@
+document.getElementById("pass_counter").innerHTML="5"
